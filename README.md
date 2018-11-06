@@ -14,4 +14,4 @@ a small nodejs script to recieve , mix , encode and return MP3 and AAC files
   9-Hit send.
   10- ENJOY !!!
   
-![whoops](https://ibb.co/kVyuJV)
+![whoops](http://i64.tinypic.com/28bfb06.png)
